@@ -1,3 +1,10 @@
+@media screen and (max-width:480px){
+	body {
+        font-size:45%; 
+        font-weight: 900;
+	} 
+}
+
 body {
     background-color: #182963;
     color: #FFFFFF;
@@ -5,12 +12,13 @@ body {
     margin: 0;
     }
     
+    
     .nav-item:hover{
     background-color: rgb(136, 248, 248);
     } 
 
     .nav-link{
-        color: white;
+    color: white;
     }
 
 
