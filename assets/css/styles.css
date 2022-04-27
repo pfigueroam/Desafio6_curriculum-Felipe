@@ -37,24 +37,18 @@ body {
 
     .descripcion_texto {
     width: 45%;
-    margin: 3.5em 2em 0 15em ;
-    display: inline-block;
-    box-sizing: border-box;
+    margin: 3.5em 2em 0 20em ;
     }
     
     
     .descripcion_texto2 {
         width: 45%;
-        margin: 3.5em 2em 0 15em ;
-        display: inline-block;
-        box-sizing: border-box;
+        margin: 3.5em 2em 0 20em ;
     }
 
     .descripcion_texto3 {
         width: 45%;
-        margin: 3.5em 2em 0 15em ;
-        display: inline-block;
-        box-sizing: border-box;
+        margin: 3.5em 2em 0 20em ;
     }
     
 
