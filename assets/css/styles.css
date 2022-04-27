@@ -1,19 +1,25 @@
 body {
-    background-color: #09022c;
+    background-color: #182963;
     color: #FFFFFF;
     font-family: 'Raleway', sans-serif;
     margin: 0;
     }
     
-    .nav-link:hover{
-    background-color: aqua;
+    .nav-item:hover{
+    background-color: rgb(136, 248, 248);
     } 
+
+    .nav-link{
+        color: white;
+    }
+
 
     h1 {
     text-align: left;
     margin: 3.5em 2em 0 15em ;
     display: inline-block;
     box-sizing: border-box;
+    font-style: italic;
     }
     
     h2 {
@@ -81,6 +87,7 @@ body {
     padding: 1em 1em;
     color: #ffffff;
     text-decoration: none;
+    font-style: italic;
     }
 
    
