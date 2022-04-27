@@ -30,6 +30,8 @@ body {
     .homero {
     width: 20%;
     margin-left: 1%;
+    border-radius: 45%;
+    border-style:groove;
     }
 
 
